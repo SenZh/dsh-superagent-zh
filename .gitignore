@@ -1,0 +1,4 @@
+# 本地临时文件
+*.tmp
+.DS_Store
+Thumbs.db
